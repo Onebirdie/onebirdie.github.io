@@ -2,8 +2,6 @@
 title: hexo blog build
 date: 2021-06-25
 ---
-# 个人博客的搭建
-
 `CentOS7`搭建
 
 ## 准备环境
