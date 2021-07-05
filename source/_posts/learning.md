@@ -1,5 +1,5 @@
 ---
-title: learning
+title: Learning
 date: 2021-06-29
 ---
 

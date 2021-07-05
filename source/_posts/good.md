@@ -1,5 +1,5 @@
 ---
-title: good
+title: Good
 date: 2021-07-02
 ---
 
